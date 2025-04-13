@@ -1,14 +1,12 @@
-import { useState } from "react";
-import "./App.css";
-import SkyMap from "./Component/SkyViewer";
-function App() {
-  const [count, setCount] = useState(0);
+import React from "react";
+import ISS_MeteorVisualizer from "./Component/IsMeteorVisualizer";
 
+const App = () => {
   return (
-    <>
-      <SkyMap />
-    </>
+    <div style={{ margin: 0, padding: 0 }}>
+      <ISS_MeteorVisualizer />
+    </div>
   );
-}
+};
 
 export default App;

@@ -10,10 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@nasaworldwind/worldwind": "^0.11.0",
     "@react-three/drei": "^10.0.6",
     "@react-three/fiber": "^9.1.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.9",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-globe.gl": "^2.33.2",
     "three": "^0.175.0"
   },
   "devDependencies": {
