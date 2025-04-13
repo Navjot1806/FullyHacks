@@ -1,5 +1,4 @@
 import React, { useEffect, useRef, useState } from "react";
-import { Link } from "react-router-dom";
 import Globe from "react-globe.gl";
 
 const meteorShowers = [
@@ -61,35 +60,38 @@ const ISS_MeteorVisualizer = () => {
   return (
     <div style={{ position: "relative", height: "100vh" }}>
       {/* Home Button */}
-      <div style={{ 
-        position: "absolute", 
-        top: "10px", 
-        right: "10px", 
-        zIndex: 1000 
-      }}>
-        <Link to="/" style={{
-          backgroundColor: "#333",
-          color: "white",
-          padding: "5px 15px",
-          borderRadius: "5px",
-          textDecoration: "none",
-          fontSize: "14px"
-        }}>
-          Home
-        </Link>
-      </div>
+      <div
+        style={{
+          position: "absolute",
+          top: "10px",
+          right: "10px",
+          zIndex: 1000,
+        }}
+      ></div>
 
       <div style={{ display: "flex", height: "100%" }}>
         <div style={{ width: "25%" }}>
           {selectedCity && (
             <div>
               <h2>{selectedCity.name}</h2>
-              <p><strong>City:</strong> {selectedCity.city}</p>
-              <p><strong>Year:</strong> {selectedCity.year}</p>
-              <p><strong>Mass:</strong> {selectedCity.mass} g</p>
-              <p><strong>Class:</strong> {selectedCity.class}</p>
-              <p><strong>Latitude:</strong> {selectedCity.lat}</p>
-              <p><strong>Longitude:</strong> {selectedCity.lng}</p>
+              <p>
+                <strong>City:</strong> {selectedCity.city}
+              </p>
+              <p>
+                <strong>Year:</strong> {selectedCity.year}
+              </p>
+              <p>
+                <strong>Mass:</strong> {selectedCity.mass} g
+              </p>
+              <p>
+                <strong>Class:</strong> {selectedCity.class}
+              </p>
+              <p>
+                <strong>Latitude:</strong> {selectedCity.lat}
+              </p>
+              <p>
+                <strong>Longitude:</strong> {selectedCity.lng}
+              </p>
             </div>
           )}
         </div>

@@ -1,11 +1,26 @@
-import React from "react";
+import React, { useMemo } from "react";
 import { Card, CardHeader, CardBody, Image } from "@heroui/react";
+
+// Images must be in /public/images for public access
+const meteorImages = [
+  "/images/meteor-1.png",
+  "/images/meteor-2.png",
+  "/images/meteor-3.png",
+  "/images/meteor-4.png",
+  "/images/meteor-5.png",
+];
 
 const MeteoriteCard = ({ meteorite }) => {
   if (!meteorite) return null;
 
+  // Pick a random image on each render
+  const imageUrl = useMemo(() => {
+    const randomIndex = Math.floor(Math.random() * meteorImages.length);
+    return meteorImages[randomIndex];
+  }, [meteorite]);
+
   return (
-    <Card className="py-4 bg-[#1c1c1c] text-white border-yellow-500 ">
+    <Card className="py-4 bg-[#1c1c1c] text-white border-yellow-500">
       <CardHeader className="pb-0 pt-2 px-4 flex-col items-start">
         <p className="text-tiny uppercase font-bold text-yellow-400">
           Meteorite Details
@@ -35,7 +50,7 @@ const MeteoriteCard = ({ meteorite }) => {
         <Image
           alt="Meteorite"
           className="object-cover rounded-xl mt-4"
-          src="https://heroui.com/images/hero-card-complete.jpeg"
+          src={imageUrl}
           width={270}
         />
       </CardBody>
