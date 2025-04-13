@@ -9,7 +9,9 @@
     "color": "yellow",
     "city": "Aachen",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1883-03-31",
+    "prediction_text": "A meteor shower is predicted to occur over Aachen on 1883-03-31. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Aarhus",
@@ -21,7 +23,9 @@
     "color": "yellow",
     "city": "Aarhus",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1957-03-28",
+    "prediction_text": "A meteor shower is predicted to occur over Aarhus on 1957-03-28. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Abee",
@@ -33,7 +37,9 @@
     "color": "yellow",
     "city": "Alberta",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1958-01-26",
+    "prediction_text": "A meteor shower is predicted to occur over Alberta on 1958-01-26. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Acapulco",
@@ -45,7 +51,9 @@
     "color": "yellow",
     "city": "Acapulco",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1980-09-20",
+    "prediction_text": "A meteor shower is predicted to occur over Acapulco on 1980-09-20. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Achiras",
@@ -57,7 +65,9 @@
     "color": "yellow",
     "city": "C\u00f3rdoba",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1909-07-26",
+    "prediction_text": "A meteor shower is predicted to occur over C\u00f3rdoba on 1909-07-26. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Adhi Kot",
@@ -69,7 +79,9 @@
     "color": "yellow",
     "city": "Punjab",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1926-09-18",
+    "prediction_text": "A meteor shower is predicted to occur over Punjab on 1926-09-18. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Adzhi-Bogdo (stone)",
@@ -81,7 +93,9 @@
     "color": "yellow",
     "city": "Govi-Altai",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1957-10-24",
+    "prediction_text": "A meteor shower is predicted to occur over Govi-Altai on 1957-10-24. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Agen",
@@ -93,7 +107,9 @@
     "color": "yellow",
     "city": "Agen",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1818-02-15",
+    "prediction_text": "A meteor shower is predicted to occur over Agen on 1818-02-15. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Aguada",
@@ -105,7 +121,9 @@
     "color": "yellow",
     "city": "C\u00f3rdoba",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "1932-08-24",
+    "prediction_text": "A meteor shower is predicted to occur over C\u00f3rdoba on 1932-08-24. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Aguila Blanca",
@@ -117,7 +135,9 @@
     "color": "yellow",
     "city": "Capilla del Monte",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1926-08-09",
+    "prediction_text": "A meteor shower is predicted to occur over Capilla del Monte on 1926-08-09. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Aioun el Atrouss",
@@ -129,7 +149,9 @@
     "color": "yellow",
     "city": "Kubanni",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1981-02-10",
+    "prediction_text": "A meteor shower is predicted to occur over Kubanni on 1981-02-10. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "A\u00efr",
@@ -141,7 +163,9 @@
     "color": "yellow",
     "city": "Iferou\u00e2ne",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1928-09-22",
+    "prediction_text": "A meteor shower is predicted to occur over Iferou\u00e2ne on 1928-09-22. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Akaba",
@@ -153,7 +177,9 @@
     "color": "yellow",
     "city": "Aqaba",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1950-05-07",
+    "prediction_text": "A meteor shower is predicted to occur over Aqaba on 1950-05-07. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Akbarpur",
@@ -165,7 +191,9 @@
     "color": "yellow",
     "city": "Uttarakhand",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "1847-03-11",
+    "prediction_text": "A meteor shower is predicted to occur over Uttarakhand on 1847-03-11. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Akwanga",
@@ -177,7 +205,9 @@
     "color": "yellow",
     "city": "Akwanga",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "1965-09-13",
+    "prediction_text": "A meteor shower is predicted to occur over Akwanga on 1965-09-13. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Akyumak",
@@ -189,7 +219,9 @@
     "color": "yellow",
     "city": "Ele\u015fkirt",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1987-01-27",
+    "prediction_text": "A meteor shower is predicted to occur over Ele\u015fkirt on 1987-01-27. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Al Rais",
@@ -201,7 +233,9 @@
     "color": "yellow",
     "city": "Medina",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1961-01-18",
+    "prediction_text": "A meteor shower is predicted to occur over Medina on 1961-01-18. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Al Zarnkh",
@@ -213,7 +247,9 @@
     "color": "yellow",
     "city": "West Kurdufan State",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "2003-10-23",
+    "prediction_text": "A meteor shower is predicted to occur over West Kurdufan State on 2003-10-23. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Alais",
@@ -225,7 +261,9 @@
     "color": "yellow",
     "city": "Al\u00e8s",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1810-06-02",
+    "prediction_text": "A meteor shower is predicted to occur over Al\u00e8s on 1810-06-02. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Alberta",
@@ -237,7 +275,9 @@
     "color": "yellow",
     "city": "Tshopo",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1952-09-02",
+    "prediction_text": "A meteor shower is predicted to occur over Tshopo on 1952-09-02. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Alby sur Ch\u00e9ran",
@@ -249,7 +289,9 @@
     "color": "yellow",
     "city": "Alby-sur-Ch\u00e9ran",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "2008-05-18",
+    "prediction_text": "A meteor shower is predicted to occur over Alby-sur-Ch\u00e9ran on 2008-05-18. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Aldsworth",
@@ -261,7 +303,9 @@
     "color": "yellow",
     "city": "Cotswold District",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1841-06-13",
+    "prediction_text": "A meteor shower is predicted to occur over Cotswold District on 1841-06-13. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Aleppo",
@@ -273,7 +317,9 @@
     "color": "yellow",
     "city": "Aleppo",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1876-07-02",
+    "prediction_text": "A meteor shower is predicted to occur over Aleppo on 1876-07-02. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Alessandria",
@@ -285,7 +331,9 @@
     "color": "yellow",
     "city": "Alessandria",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "1862-01-07",
+    "prediction_text": "A meteor shower is predicted to occur over Alessandria on 1862-01-07. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Alexandrovsky",
@@ -297,7 +345,9 @@
     "color": "yellow",
     "city": "Chernihiv Oblast",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1906-10-22",
+    "prediction_text": "A meteor shower is predicted to occur over Chernihiv Oblast on 1906-10-22. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Alfianello",
@@ -309,7 +359,9 @@
     "color": "yellow",
     "city": "Alfianello",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1890-01-23",
+    "prediction_text": "A meteor shower is predicted to occur over Alfianello on 1890-01-23. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Allegan",
@@ -321,7 +373,9 @@
     "color": "yellow",
     "city": "Michigan",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1905-07-08",
+    "prediction_text": "A meteor shower is predicted to occur over Michigan on 1905-07-08. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Allende",
@@ -333,7 +387,9 @@
     "color": "yellow",
     "city": "Pueblito de Allende",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1972-02-26",
+    "prediction_text": "A meteor shower is predicted to occur over Pueblito de Allende on 1972-02-26. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Almahata Sitta",
@@ -345,7 +401,9 @@
     "color": "yellow",
     "city": "Northern State",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "2012-02-24",
+    "prediction_text": "A meteor shower is predicted to occur over Northern State on 2012-02-24. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Alta'ameem",
@@ -357,7 +415,9 @@
     "color": "yellow",
     "city": "Great Humera",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1986-01-29",
+    "prediction_text": "A meteor shower is predicted to occur over Great Humera on 1986-01-29. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Ambapur Nagla",
@@ -369,7 +429,9 @@
     "color": "yellow",
     "city": "Uttar Pradesh",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1896-07-19",
+    "prediction_text": "A meteor shower is predicted to occur over Uttar Pradesh on 1896-07-19. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Andhara",
@@ -381,7 +443,9 @@
     "color": "yellow",
     "city": "Bihar",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "1881-07-24",
+    "prediction_text": "A meteor shower is predicted to occur over Bihar on 1881-07-24. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Andover",
@@ -393,7 +457,9 @@
     "color": "yellow",
     "city": "Andover",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1902-07-19",
+    "prediction_text": "A meteor shower is predicted to occur over Andover on 1902-07-19. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Andreevka",
@@ -405,7 +471,9 @@
     "color": "yellow",
     "city": "Kramatorsk",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1977-08-06",
+    "prediction_text": "A meteor shower is predicted to occur over Kramatorsk on 1977-08-06. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Andura",
@@ -417,7 +485,9 @@
     "color": "yellow",
     "city": "Andura",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1944-06-09",
+    "prediction_text": "A meteor shower is predicted to occur over Andura on 1944-06-09. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Angra dos Reis (stone)",
@@ -429,7 +499,9 @@
     "color": "yellow",
     "city": "Cunhambebe",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "1877-09-19",
+    "prediction_text": "A meteor shower is predicted to occur over Cunhambebe on 1877-09-19. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Ankober",
@@ -441,7 +513,9 @@
     "color": "yellow",
     "city": "Amhara Region",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1950-04-23",
+    "prediction_text": "A meteor shower is predicted to occur over Amhara Region on 1950-04-23. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Anlong",
@@ -453,7 +527,9 @@
     "color": "yellow",
     "city": "Longchang",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1977-08-17",
+    "prediction_text": "A meteor shower is predicted to occur over Longchang on 1977-08-17. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Aomori",
@@ -465,7 +541,9 @@
     "color": "yellow",
     "city": "Aomori",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1986-11-15",
+    "prediction_text": "A meteor shower is predicted to occur over Aomori on 1986-11-15. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Appley Bridge",
@@ -477,7 +555,9 @@
     "color": "yellow",
     "city": "West Lancashire",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "1915-06-22",
+    "prediction_text": "A meteor shower is predicted to occur over West Lancashire on 1915-06-22. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Apt",
@@ -489,7 +569,9 @@
     "color": "yellow",
     "city": "Apt",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1811-06-22",
+    "prediction_text": "A meteor shower is predicted to occur over Apt on 1811-06-22. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Arbol Solo",
@@ -501,7 +583,9 @@
     "color": "yellow",
     "city": "San Luis",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "1962-04-16",
+    "prediction_text": "A meteor shower is predicted to occur over San Luis on 1962-04-16. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Archie",
@@ -513,7 +597,9 @@
     "color": "yellow",
     "city": "Missouri",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1934-06-06",
+    "prediction_text": "A meteor shower is predicted to occur over Missouri on 1934-06-06. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Arroyo Aguiar",
@@ -525,7 +611,9 @@
     "color": "yellow",
     "city": "Santa Fe",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1955-01-31",
+    "prediction_text": "A meteor shower is predicted to occur over Santa Fe on 1955-01-31. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Asco",
@@ -537,7 +625,9 @@
     "color": "yellow",
     "city": "Asco",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "1810-10-14",
+    "prediction_text": "A meteor shower is predicted to occur over Asco on 1810-10-14. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Ash Creek",
@@ -549,7 +639,9 @@
     "color": "yellow",
     "city": "Texas",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "2017-01-10",
+    "prediction_text": "A meteor shower is predicted to occur over Texas on 2017-01-10. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Ashdon",
@@ -561,7 +653,9 @@
     "color": "yellow",
     "city": "Uttlesford",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1926-06-30",
+    "prediction_text": "A meteor shower is predicted to occur over Uttlesford on 1926-06-30. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Assisi",
@@ -573,7 +667,9 @@
     "color": "yellow",
     "city": "Assisi",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "1894-11-03",
+    "prediction_text": "A meteor shower is predicted to occur over Assisi on 1894-11-03. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Atarra",
@@ -585,7 +681,9 @@
     "color": "yellow",
     "city": "Uttar Pradesh",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1928-12-24",
+    "prediction_text": "A meteor shower is predicted to occur over Uttar Pradesh on 1928-12-24. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Atemajac",
@@ -597,7 +695,9 @@
     "color": "yellow",
     "city": "Jalisco",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "1903-09-25",
+    "prediction_text": "A meteor shower is predicted to occur over Jalisco on 1903-09-25. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Athens",
@@ -609,7 +709,9 @@
     "color": "yellow",
     "city": "Athens",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "1942-06-08",
+    "prediction_text": "A meteor shower is predicted to occur over Athens on 1942-06-08. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Atoka",
@@ -621,7 +723,9 @@
     "color": "yellow",
     "city": "Oklahoma",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1948-02-09",
+    "prediction_text": "A meteor shower is predicted to occur over Oklahoma on 1948-02-09. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Aubres",
@@ -633,7 +737,9 @@
     "color": "yellow",
     "city": "Le Vieux Village d'Aubres",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1840-11-04",
+    "prediction_text": "A meteor shower is predicted to occur over Le Vieux Village d'Aubres on 1840-11-04. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Aumale",
@@ -645,7 +751,9 @@
     "color": "yellow",
     "city": "Sour El Ghozlane",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1871-12-08",
+    "prediction_text": "A meteor shower is predicted to occur over Sour El Ghozlane on 1871-12-08. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Aumieres",
@@ -657,7 +765,9 @@
     "color": "yellow",
     "city": "Massegros Causses Gorges",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1849-12-26",
+    "prediction_text": "A meteor shower is predicted to occur over Massegros Causses Gorges on 1849-12-26. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Ausson",
@@ -669,7 +779,9 @@
     "color": "yellow",
     "city": "Montr\u00e9jeau",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1863-12-31",
+    "prediction_text": "A meteor shower is predicted to occur over Montr\u00e9jeau on 1863-12-31. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Avanhandava",
@@ -681,7 +793,9 @@
     "color": "yellow",
     "city": "Avanhandava",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1954-07-22",
+    "prediction_text": "A meteor shower is predicted to occur over Avanhandava on 1954-07-22. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Avce",
@@ -693,7 +807,9 @@
     "color": "yellow",
     "city": "Barbana",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "1916-12-28",
+    "prediction_text": "A meteor shower is predicted to occur over Barbana on 1916-12-28. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Avilez",
@@ -705,7 +821,9 @@
     "color": "yellow",
     "city": "Durango",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1856-01-05",
+    "prediction_text": "A meteor shower is predicted to occur over Durango on 1856-01-05. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Awere",
@@ -717,7 +835,9 @@
     "color": "yellow",
     "city": "Latek East",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1972-01-18",
+    "prediction_text": "A meteor shower is predicted to occur over Latek East on 1972-01-18. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Aztec",
@@ -729,7 +849,9 @@
     "color": "yellow",
     "city": "Aztec",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1944-03-27",
+    "prediction_text": "A meteor shower is predicted to occur over Aztec on 1944-03-27. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bachmut",
@@ -741,7 +863,9 @@
     "color": "yellow",
     "city": "Bakhmut",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1820-10-14",
+    "prediction_text": "A meteor shower is predicted to occur over Bakhmut on 1820-10-14. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bahjoi",
@@ -753,7 +877,9 @@
     "color": "yellow",
     "city": "Sambhal",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1943-01-29",
+    "prediction_text": "A meteor shower is predicted to occur over Sambhal on 1943-01-29. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bald Mountain",
@@ -765,7 +891,9 @@
     "color": "yellow",
     "city": "North Carolina",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1933-07-05",
+    "prediction_text": "A meteor shower is predicted to occur over North Carolina on 1933-07-05. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Baldwyn",
@@ -777,7 +905,9 @@
     "color": "yellow",
     "city": "Baldwyn",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "1927-08-26",
+    "prediction_text": "A meteor shower is predicted to occur over Baldwyn on 1927-08-26. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bali",
@@ -789,7 +919,9 @@
     "color": "yellow",
     "city": "Nana-Mamb\u00e9r\u00e9",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1908-01-10",
+    "prediction_text": "A meteor shower is predicted to occur over Nana-Mamb\u00e9r\u00e9 on 1908-01-10. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Ban Rong Du",
@@ -801,7 +933,9 @@
     "color": "yellow",
     "city": "Ban Rai Phathana",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "2000-09-30",
+    "prediction_text": "A meteor shower is predicted to occur over Ban Rai Phathana on 2000-09-30. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bandong",
@@ -813,7 +947,9 @@
     "color": "yellow",
     "city": "Bandung City",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1872-02-08",
+    "prediction_text": "A meteor shower is predicted to occur over Bandung City on 1872-02-08. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bansur",
@@ -825,7 +961,9 @@
     "color": "yellow",
     "city": "Nangal Bhaosingh",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1897-10-17",
+    "prediction_text": "A meteor shower is predicted to occur over Nangal Bhaosingh on 1897-10-17. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Banswal",
@@ -837,7 +975,9 @@
     "color": "yellow",
     "city": "Uttarakhand",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1918-12-08",
+    "prediction_text": "A meteor shower is predicted to occur over Uttarakhand on 1918-12-08. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Banten",
@@ -849,7 +989,9 @@
     "color": "yellow",
     "city": "Nembol",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1936-08-28",
+    "prediction_text": "A meteor shower is predicted to occur over Nembol on 1936-08-28. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Barea",
@@ -861,7 +1003,9 @@
     "color": "yellow",
     "city": "Entrena",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "1850-05-17",
+    "prediction_text": "A meteor shower is predicted to occur over Entrena on 1850-05-17. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Barnaul",
@@ -873,7 +1017,9 @@
     "color": "yellow",
     "city": "Altai Krai",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1910-07-23",
+    "prediction_text": "A meteor shower is predicted to occur over Altai Krai on 1910-07-23. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Barntrup",
@@ -885,7 +1031,9 @@
     "color": "yellow",
     "city": "Barntrup",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1887-10-30",
+    "prediction_text": "A meteor shower is predicted to occur over Barntrup on 1887-10-30. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Baroti",
@@ -897,7 +1045,9 @@
     "color": "yellow",
     "city": "Himachal Pradesh",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1915-09-10",
+    "prediction_text": "A meteor shower is predicted to occur over Himachal Pradesh on 1915-09-10. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Barwell",
@@ -909,7 +1059,9 @@
     "color": "yellow",
     "city": "Hinckley and Bosworth",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1971-08-06",
+    "prediction_text": "A meteor shower is predicted to occur over Hinckley and Bosworth on 1971-08-06. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bassikounou",
@@ -921,7 +1073,9 @@
     "color": "yellow",
     "city": "Bassiknou",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "2013-09-25",
+    "prediction_text": "A meteor shower is predicted to occur over Bassiknou on 2013-09-25. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Baszk\u00f3wka",
@@ -933,7 +1087,9 @@
     "color": "yellow",
     "city": "G\u0142osk\u00f3w",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "2002-12-13",
+    "prediction_text": "A meteor shower is predicted to occur over G\u0142osk\u00f3w on 2002-12-13. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bath",
@@ -945,7 +1101,9 @@
     "color": "yellow",
     "city": "South Dakota",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1900-02-17",
+    "prediction_text": "A meteor shower is predicted to occur over South Dakota on 1900-02-17. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bath Furnace",
@@ -957,7 +1115,9 @@
     "color": "yellow",
     "city": "Kentucky",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1906-12-29",
+    "prediction_text": "A meteor shower is predicted to occur over Kentucky on 1906-12-29. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Battle Mountain",
@@ -969,7 +1129,9 @@
     "color": "yellow",
     "city": "Nevada",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "2018-05-30",
+    "prediction_text": "A meteor shower is predicted to occur over Nevada on 2018-05-30. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bawku",
@@ -981,7 +1143,9 @@
     "color": "yellow",
     "city": "Unknown",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1991-09-17",
+    "prediction_text": "A meteor shower is predicted to occur over Unknown on 1991-09-17. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Baxter",
@@ -993,7 +1157,9 @@
     "color": "yellow",
     "city": "Missouri",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "1924-02-15",
+    "prediction_text": "A meteor shower is predicted to occur over Missouri on 1924-02-15. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Beardsley",
@@ -1005,7 +1171,9 @@
     "color": "yellow",
     "city": "Kansas",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1930-07-25",
+    "prediction_text": "A meteor shower is predicted to occur over Kansas on 1930-07-25. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Beaver Creek",
@@ -1017,7 +1185,9 @@
     "color": "yellow",
     "city": "Area A (Kicking Horse/Kinbasket Lake)",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "1900-06-08",
+    "prediction_text": "A meteor shower is predicted to occur over Area A (Kicking Horse/Kinbasket Lake) on 1900-06-08. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Beddgelert",
@@ -1029,7 +1199,9 @@
     "color": "yellow",
     "city": "Beddgelert",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "1952-08-11",
+    "prediction_text": "A meteor shower is predicted to occur over Beddgelert on 1952-08-11. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bells",
@@ -1041,7 +1213,9 @@
     "color": "yellow",
     "city": "Texas",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "1964-11-29",
+    "prediction_text": "A meteor shower is predicted to occur over Texas on 1964-11-29. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Benguerir",
@@ -1053,7 +1227,9 @@
     "color": "yellow",
     "city": "El Fokra",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "2005-02-23",
+    "prediction_text": "A meteor shower is predicted to occur over El Fokra on 2005-02-23. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Beni M'hira",
@@ -1065,7 +1241,9 @@
     "color": "yellow",
     "city": "Tataouine",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "2005-12-14",
+    "prediction_text": "A meteor shower is predicted to occur over Tataouine on 2005-12-14. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Benld",
@@ -1077,7 +1255,9 @@
     "color": "yellow",
     "city": "Illinois",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1945-03-14",
+    "prediction_text": "A meteor shower is predicted to occur over Illinois on 1945-03-14. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Benoni",
@@ -1089,7 +1269,9 @@
     "color": "yellow",
     "city": "Gauteng",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1949-06-26",
+    "prediction_text": "A meteor shower is predicted to occur over Gauteng on 1949-06-26. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bensour",
@@ -1101,7 +1283,9 @@
     "color": "yellow",
     "city": "Foum Zguid",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "2005-06-04",
+    "prediction_text": "A meteor shower is predicted to occur over Foum Zguid on 2005-06-04. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Benton",
@@ -1113,7 +1297,9 @@
     "color": "yellow",
     "city": "New Brunswick",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "1950-01-17",
+    "prediction_text": "A meteor shower is predicted to occur over New Brunswick on 1950-01-17. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Berduc",
@@ -1125,7 +1311,9 @@
     "color": "yellow",
     "city": "Entre R\u00edos Province",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "2011-01-31",
+    "prediction_text": "A meteor shower is predicted to occur over Entre R\u00edos Province on 2011-01-31. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "B\u00e9r\u00e9ba",
@@ -1137,7 +1325,9 @@
     "color": "yellow",
     "city": "Unknown",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1925-05-20",
+    "prediction_text": "A meteor shower is predicted to occur over Unknown on 1925-05-20. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Berlanguillas",
@@ -1149,7 +1339,9 @@
     "color": "yellow",
     "city": "Gumiel de Mercado",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1812-08-09",
+    "prediction_text": "A meteor shower is predicted to occur over Gumiel de Mercado on 1812-08-09. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Berthoud",
@@ -1161,7 +1353,9 @@
     "color": "yellow",
     "city": "Berthoud",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "2012-10-21",
+    "prediction_text": "A meteor shower is predicted to occur over Berthoud on 2012-10-21. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bethlehem",
@@ -1173,7 +1367,9 @@
     "color": "yellow",
     "city": "Town of Bethlehem",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1863-07-14",
+    "prediction_text": "A meteor shower is predicted to occur over Town of Bethlehem on 1863-07-14. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Beuste",
@@ -1185,7 +1381,9 @@
     "color": "yellow",
     "city": "Beuste",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1862-06-16",
+    "prediction_text": "A meteor shower is predicted to occur over Beuste on 1862-06-16. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Beyrout",
@@ -1197,7 +1395,9 @@
     "color": "yellow",
     "city": "Burj Abi Haidar",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1922-06-16",
+    "prediction_text": "A meteor shower is predicted to occur over Burj Abi Haidar on 1922-06-16. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bhagur",
@@ -1209,7 +1409,9 @@
     "color": "yellow",
     "city": "Saundane",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1883-08-07",
+    "prediction_text": "A meteor shower is predicted to occur over Saundane on 1883-08-07. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bhawad",
@@ -1221,7 +1423,9 @@
     "color": "yellow",
     "city": "Bhawad",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "2010-12-28",
+    "prediction_text": "A meteor shower is predicted to occur over Bhawad on 2010-12-28. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bherai",
@@ -1233,7 +1437,9 @@
     "color": "yellow",
     "city": "Unknown",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "1897-11-09",
+    "prediction_text": "A meteor shower is predicted to occur over Unknown on 1897-11-09. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bhola",
@@ -1245,7 +1451,9 @@
     "color": "yellow",
     "city": "Bhola",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "1942-05-09",
+    "prediction_text": "A meteor shower is predicted to occur over Bhola on 1942-05-09. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bholghati",
@@ -1257,7 +1465,9 @@
     "color": "yellow",
     "city": "Odisha",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1909-06-06",
+    "prediction_text": "A meteor shower is predicted to occur over Odisha on 1909-06-06. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bialystok",
@@ -1269,7 +1479,9 @@
     "color": "yellow",
     "city": "Bia\u0142ystok",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1833-01-23",
+    "prediction_text": "A meteor shower is predicted to occur over Bia\u0142ystok on 1833-01-23. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bielokrynitschie",
@@ -1281,7 +1493,9 @@
     "color": "yellow",
     "city": "Bilokrynychchia",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1889-08-22",
+    "prediction_text": "A meteor shower is predicted to occur over Bilokrynychchia on 1889-08-22. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bilanga",
@@ -1293,7 +1507,9 @@
     "color": "yellow",
     "city": "Bilanga-Yanga-Peulh",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "2003-07-07",
+    "prediction_text": "A meteor shower is predicted to occur over Bilanga-Yanga-Peulh on 2003-07-07. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Binningup",
@@ -1305,7 +1521,9 @@
     "color": "yellow",
     "city": "Western Australia",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "1991-11-13",
+    "prediction_text": "A meteor shower is predicted to occur over Western Australia on 1991-11-13. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Birni N'konni",
@@ -1317,7 +1535,9 @@
     "color": "yellow",
     "city": "Araba",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1928-09-30",
+    "prediction_text": "A meteor shower is predicted to occur over Araba on 1928-09-30. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bishopville",
@@ -1329,7 +1549,9 @@
     "color": "yellow",
     "city": "South Carolina",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1847-09-05",
+    "prediction_text": "A meteor shower is predicted to occur over South Carolina on 1847-09-05. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bishunpur",
@@ -1341,7 +1563,9 @@
     "color": "yellow",
     "city": "Bhadohi",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1897-11-08",
+    "prediction_text": "A meteor shower is predicted to occur over Bhadohi on 1897-11-08. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bjurb\u00f6le",
@@ -1353,7 +1577,9 @@
     "color": "yellow",
     "city": "Porvoo",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1900-08-30",
+    "prediction_text": "A meteor shower is predicted to occur over Porvoo on 1900-08-30. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Black Moshannan Park",
@@ -1365,7 +1591,9 @@
     "color": "yellow",
     "city": "Rush Township",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "1950-07-04",
+    "prediction_text": "A meteor shower is predicted to occur over Rush Township on 1950-07-04. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Blackwell",
@@ -1377,7 +1605,9 @@
     "color": "yellow",
     "city": "Oklahoma",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "1909-08-26",
+    "prediction_text": "A meteor shower is predicted to occur over Oklahoma on 1909-08-26. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Blanket",
@@ -1389,7 +1619,9 @@
     "color": "yellow",
     "city": "Texas",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "1914-11-29",
+    "prediction_text": "A meteor shower is predicted to occur over Texas on 1914-11-29. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Blansko",
@@ -1401,7 +1633,9 @@
     "color": "yellow",
     "city": "Blansko",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1834-10-07",
+    "prediction_text": "A meteor shower is predicted to occur over Blansko on 1834-10-07. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bloomington",
@@ -1413,7 +1647,9 @@
     "color": "yellow",
     "city": "Bloomington",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1943-01-17",
+    "prediction_text": "A meteor shower is predicted to occur over Bloomington on 1943-01-17. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bo Xian",
@@ -1425,7 +1661,9 @@
     "color": "yellow",
     "city": "Qiaocheng District",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "1980-12-21",
+    "prediction_text": "A meteor shower is predicted to occur over Qiaocheng District on 1980-12-21. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bocas",
@@ -1437,7 +1675,9 @@
     "color": "yellow",
     "city": "San Luis Potos\u00ed",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1806-08-03",
+    "prediction_text": "A meteor shower is predicted to occur over San Luis Potos\u00ed on 1806-08-03. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bogou",
@@ -1449,7 +1689,9 @@
     "color": "yellow",
     "city": "Lafya",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1970-08-30",
+    "prediction_text": "A meteor shower is predicted to occur over Lafya on 1970-08-30. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Boguslavka",
@@ -1461,7 +1703,9 @@
     "color": "yellow",
     "city": "Primorsky Krai",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "1923-03-22",
+    "prediction_text": "A meteor shower is predicted to occur over Primorsky Krai on 1923-03-22. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Borgo San Donino",
@@ -1473,7 +1717,9 @@
     "color": "yellow",
     "city": "Fidenza",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1816-02-19",
+    "prediction_text": "A meteor shower is predicted to occur over Fidenza on 1816-02-19. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bori",
@@ -1485,7 +1731,9 @@
     "color": "yellow",
     "city": "Lakhapur Khurd",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1901-02-02",
+    "prediction_text": "A meteor shower is predicted to occur over Lakhapur Khurd on 1901-02-02. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Boriskino",
@@ -1497,7 +1745,9 @@
     "color": "yellow",
     "city": "\u0421\u0442\u0430\u0440\u043e\u0431\u043e\u0440\u0438\u0441\u043a\u0438\u043d\u043e",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1939-08-15",
+    "prediction_text": "A meteor shower is predicted to occur over \u0421\u0442\u0430\u0440\u043e\u0431\u043e\u0440\u0438\u0441\u043a\u0438\u043d\u043e on 1939-08-15. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Borkut",
@@ -1509,7 +1759,9 @@
     "color": "yellow",
     "city": "Kvasy",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1858-08-29",
+    "prediction_text": "A meteor shower is predicted to occur over Kvasy on 1858-08-29. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Borodino",
@@ -1521,7 +1773,9 @@
     "color": "yellow",
     "city": "Moscow Oblast",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1814-08-16",
+    "prediction_text": "A meteor shower is predicted to occur over Moscow Oblast on 1814-08-16. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Botschetschki",
@@ -1533,7 +1787,9 @@
     "color": "yellow",
     "city": "Putyvl",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1830-08-12",
+    "prediction_text": "A meteor shower is predicted to occur over Putyvl on 1830-08-12. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Boumdeid (2003)",
@@ -1545,7 +1801,9 @@
     "color": "yellow",
     "city": "Assaba",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "2005-06-01",
+    "prediction_text": "A meteor shower is predicted to occur over Assaba on 2005-06-01. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Boumdeid (2011)",
@@ -1557,7 +1815,9 @@
     "color": "yellow",
     "city": "Assaba",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "2016-08-08",
+    "prediction_text": "A meteor shower is predicted to occur over Assaba on 2016-08-08. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bovedy",
@@ -1569,7 +1829,9 @@
     "color": "yellow",
     "city": "Northern Ireland",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1977-10-09",
+    "prediction_text": "A meteor shower is predicted to occur over Northern Ireland on 1977-10-09. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bradford Woods",
@@ -1581,7 +1843,9 @@
     "color": "yellow",
     "city": "Neville Township",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1893-10-04",
+    "prediction_text": "A meteor shower is predicted to occur over Neville Township on 1893-10-04. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Braunau",
@@ -1593,7 +1857,9 @@
     "color": "yellow",
     "city": "Hejtm\u00e1nkovice",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1853-06-08",
+    "prediction_text": "A meteor shower is predicted to occur over Hejtm\u00e1nkovice on 1853-06-08. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Breitscheid",
@@ -1605,7 +1871,9 @@
     "color": "yellow",
     "city": "Gusternhain",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1960-07-28",
+    "prediction_text": "A meteor shower is predicted to occur over Gusternhain on 1960-07-28. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bremerv\u00f6rde",
@@ -1617,7 +1885,9 @@
     "color": "yellow",
     "city": "Sandbostel",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "1857-04-22",
+    "prediction_text": "A meteor shower is predicted to occur over Sandbostel on 1857-04-22. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Brient",
@@ -1629,7 +1899,9 @@
     "color": "yellow",
     "city": "Briyent",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1941-06-01",
+    "prediction_text": "A meteor shower is predicted to occur over Briyent on 1941-06-01. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bruderheim",
@@ -1641,7 +1913,9 @@
     "color": "yellow",
     "city": "Alberta",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1967-05-10",
+    "prediction_text": "A meteor shower is predicted to occur over Alberta on 1967-05-10. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bukhara",
@@ -1653,7 +1927,9 @@
     "color": "yellow",
     "city": "Akchamamad",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "2010-03-28",
+    "prediction_text": "A meteor shower is predicted to occur over Akchamamad on 2010-03-28. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bunburra Rockhole",
@@ -1665,7 +1941,9 @@
     "color": "yellow",
     "city": "South Australia",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "2015-05-21",
+    "prediction_text": "A meteor shower is predicted to occur over South Australia on 2015-05-21. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bununu",
@@ -1677,7 +1955,9 @@
     "color": "yellow",
     "city": "Bununu East",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1944-05-02",
+    "prediction_text": "A meteor shower is predicted to occur over Bununu East on 1944-05-02. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bur-Gheluai",
@@ -1689,7 +1969,9 @@
     "color": "yellow",
     "city": "Caad",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "1921-03-07",
+    "prediction_text": "A meteor shower is predicted to occur over Caad on 1921-03-07. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Burnwell",
@@ -1701,7 +1983,9 @@
     "color": "yellow",
     "city": "Kentucky",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1998-11-29",
+    "prediction_text": "A meteor shower is predicted to occur over Kentucky on 1998-11-29. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bursa",
@@ -1713,7 +1997,9 @@
     "color": "yellow",
     "city": "Kestel",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "1947-04-29",
+    "prediction_text": "A meteor shower is predicted to occur over Kestel on 1947-04-29. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Buschhof",
@@ -1725,7 +2011,9 @@
     "color": "yellow",
     "city": "G\u00e2rciu",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1867-02-25",
+    "prediction_text": "A meteor shower is predicted to occur over G\u00e2rciu on 1867-02-25. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Bustee",
@@ -1737,7 +2025,9 @@
     "color": "yellow",
     "city": "Basti",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1861-09-25",
+    "prediction_text": "A meteor shower is predicted to occur over Basti on 1861-09-25. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Butsura",
@@ -1749,7 +2039,9 @@
     "color": "yellow",
     "city": "Bagaha",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1868-12-25",
+    "prediction_text": "A meteor shower is predicted to occur over Bagaha on 1868-12-25. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Buzzard Coulee",
@@ -1761,7 +2053,9 @@
     "color": "yellow",
     "city": "Saskatchewan",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "2013-11-23",
+    "prediction_text": "A meteor shower is predicted to occur over Saskatchewan on 2013-11-23. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Cabezo de Mayo",
@@ -1773,7 +2067,9 @@
     "color": "yellow",
     "city": "Murcia",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1877-04-01",
+    "prediction_text": "A meteor shower is predicted to occur over Murcia on 1877-04-01. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Cabin Creek",
@@ -1785,7 +2081,9 @@
     "color": "yellow",
     "city": "Arkansas",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1895-08-03",
+    "prediction_text": "A meteor shower is predicted to occur over Arkansas on 1895-08-03. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Cacak",
@@ -1797,7 +2095,9 @@
     "color": "yellow",
     "city": "Atenica",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1923-09-27",
+    "prediction_text": "A meteor shower is predicted to occur over Atenica on 1923-09-27. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Cali",
@@ -1809,7 +2109,9 @@
     "color": "yellow",
     "city": "Cali",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "2012-07-19",
+    "prediction_text": "A meteor shower is predicted to occur over Cali on 2012-07-19. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Calivo",
@@ -1821,7 +2123,9 @@
     "color": "yellow",
     "city": "Numancia",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1922-01-01",
+    "prediction_text": "A meteor shower is predicted to occur over Numancia on 1922-01-01. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Campos Sales",
@@ -1833,7 +2137,9 @@
     "color": "yellow",
     "city": "Salitre",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1996-04-01",
+    "prediction_text": "A meteor shower is predicted to occur over Salitre on 1996-04-01. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "\u00c7anakkale",
@@ -1845,7 +2151,9 @@
     "color": "yellow",
     "city": "Bayrami\u00e7",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1970-06-04",
+    "prediction_text": "A meteor shower is predicted to occur over Bayrami\u00e7 on 1970-06-04. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Ca\u00f1ellas",
@@ -1857,7 +2165,9 @@
     "color": "yellow",
     "city": "Vilanova i la Geltr\u00fa",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "1870-08-29",
+    "prediction_text": "A meteor shower is predicted to occur over Vilanova i la Geltr\u00fa on 1870-08-29. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Cangas de Onis",
@@ -1869,7 +2179,9 @@
     "color": "yellow",
     "city": "Cangas de On\u00eds",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "1867-03-21",
+    "prediction_text": "A meteor shower is predicted to occur over Cangas de On\u00eds on 1867-03-21. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Canon City",
@@ -1881,7 +2193,9 @@
     "color": "yellow",
     "city": "Ca\u00f1on City",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1982-03-13",
+    "prediction_text": "A meteor shower is predicted to occur over Ca\u00f1on City on 1982-03-13. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Cape Girardeau",
@@ -1893,7 +2207,9 @@
     "color": "yellow",
     "city": "Missouri",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1847-03-20",
+    "prediction_text": "A meteor shower is predicted to occur over Missouri on 1847-03-20. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Capilla del Monte",
@@ -1905,7 +2221,9 @@
     "color": "yellow",
     "city": "C\u00f3rdoba",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1938-07-18",
+    "prediction_text": "A meteor shower is predicted to occur over C\u00f3rdoba on 1938-07-18. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Carancas",
@@ -1917,7 +2235,9 @@
     "color": "yellow",
     "city": "Desaguadero",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "2016-12-03",
+    "prediction_text": "A meteor shower is predicted to occur over Desaguadero on 2016-12-03. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Caratash",
@@ -1929,7 +2249,9 @@
     "color": "yellow",
     "city": "\u00c7i\u011fli",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1908-08-09",
+    "prediction_text": "A meteor shower is predicted to occur over \u00c7i\u011fli on 1908-08-09. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Castalia",
@@ -1941,7 +2263,9 @@
     "color": "yellow",
     "city": "Castalia",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1882-12-31",
+    "prediction_text": "A meteor shower is predicted to occur over Castalia on 1882-12-31. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Castine",
@@ -1953,7 +2277,9 @@
     "color": "yellow",
     "city": "Brooksville",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "1855-01-26",
+    "prediction_text": "A meteor shower is predicted to occur over Brooksville on 1855-01-26. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Caswell County",
@@ -1965,7 +2291,9 @@
     "color": "yellow",
     "city": "North Carolina",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "1819-08-31",
+    "prediction_text": "A meteor shower is predicted to occur over North Carolina on 1819-08-31. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Ceniceros",
@@ -1977,7 +2305,9 @@
     "color": "yellow",
     "city": "Durango",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1991-08-24",
+    "prediction_text": "A meteor shower is predicted to occur over Durango on 1991-08-24. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Centerville",
@@ -1989,7 +2319,9 @@
     "color": "yellow",
     "city": "South Dakota",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1959-05-27",
+    "prediction_text": "A meteor shower is predicted to occur over South Dakota on 1959-05-27. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Cereseto",
@@ -2001,7 +2333,9 @@
     "color": "yellow",
     "city": "Ponzano Monferrato",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1847-12-22",
+    "prediction_text": "A meteor shower is predicted to occur over Ponzano Monferrato on 1847-12-22. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chadong",
@@ -2013,7 +2347,9 @@
     "color": "yellow",
     "city": "Tuanjie",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "2000-09-03",
+    "prediction_text": "A meteor shower is predicted to occur over Tuanjie on 2000-09-03. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chail",
@@ -2025,7 +2361,9 @@
     "color": "yellow",
     "city": "Uttar Pradesh",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1823-10-30",
+    "prediction_text": "A meteor shower is predicted to occur over Uttar Pradesh on 1823-10-30. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chainpur",
@@ -2037,7 +2375,9 @@
     "color": "yellow",
     "city": "Mau",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "1911-08-09",
+    "prediction_text": "A meteor shower is predicted to occur over Mau on 1911-08-09. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chajari",
@@ -2049,7 +2389,9 @@
     "color": "yellow",
     "city": "Chajar\u00ed",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1941-11-01",
+    "prediction_text": "A meteor shower is predicted to occur over Chajar\u00ed on 1941-11-01. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chandakapur",
@@ -2061,7 +2403,9 @@
     "color": "yellow",
     "city": "Borgaon Math",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1843-03-29",
+    "prediction_text": "A meteor shower is predicted to occur over Borgaon Math on 1843-03-29. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chandpur",
@@ -2073,7 +2417,9 @@
     "color": "yellow",
     "city": "Mainpuri",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1889-10-24",
+    "prediction_text": "A meteor shower is predicted to occur over Mainpuri on 1889-10-24. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Changde",
@@ -2085,7 +2431,9 @@
     "color": "yellow",
     "city": "Wuling District",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1985-08-17",
+    "prediction_text": "A meteor shower is predicted to occur over Wuling District on 1985-08-17. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chantonnay",
@@ -2097,7 +2445,9 @@
     "color": "yellow",
     "city": "Pouligny-Saint-Pierre",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1813-09-07",
+    "prediction_text": "A meteor shower is predicted to occur over Pouligny-Saint-Pierre on 1813-09-07. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Charlotte",
@@ -2109,7 +2459,9 @@
     "color": "yellow",
     "city": "Charlotte",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1843-12-26",
+    "prediction_text": "A meteor shower is predicted to occur over Charlotte on 1843-12-26. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Charsonville",
@@ -2121,7 +2473,9 @@
     "color": "yellow",
     "city": "Charsonville",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1816-11-07",
+    "prediction_text": "A meteor shower is predicted to occur over Charsonville on 1816-11-07. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Charwallas",
@@ -2133,7 +2487,9 @@
     "color": "yellow",
     "city": "Dhangar",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1841-08-29",
+    "prediction_text": "A meteor shower is predicted to occur over Dhangar on 1841-08-29. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chassigny",
@@ -2145,7 +2501,9 @@
     "color": "yellow",
     "city": "Chassigny",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1824-02-23",
+    "prediction_text": "A meteor shower is predicted to occur over Chassigny on 1824-02-23. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Ch\u00e2teau-Renard",
@@ -2157,7 +2515,9 @@
     "color": "yellow",
     "city": "Ch\u00e2teau-Renard",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "1843-01-18",
+    "prediction_text": "A meteor shower is predicted to occur over Ch\u00e2teau-Renard on 1843-01-18. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chaves",
@@ -2169,7 +2529,9 @@
     "color": "yellow",
     "city": "Ver\u00edn",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1926-01-30",
+    "prediction_text": "A meteor shower is predicted to occur over Ver\u00edn on 1926-01-30. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chela",
@@ -2181,7 +2543,9 @@
     "color": "yellow",
     "city": "Kalagwa",
     "effect": 2,
-    "radius": 1.8
+    "radius": 1.8,
+    "prediction": "1991-04-13",
+    "prediction_text": "A meteor shower is predicted to occur over Kalagwa on 1991-04-13. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chelyabinsk",
@@ -2193,7 +2557,9 @@
     "color": "yellow",
     "city": "Chelyabinsk Oblast",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "2020-07-05",
+    "prediction_text": "A meteor shower is predicted to occur over Chelyabinsk Oblast on 2020-07-05. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chergach ",
@@ -2205,7 +2571,9 @@
     "color": "yellow",
     "city": "Unknown",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "2008-09-25",
+    "prediction_text": "A meteor shower is predicted to occur over Unknown on 2008-09-25. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chernyi Bor",
@@ -2217,7 +2585,9 @@
     "color": "yellow",
     "city": "\u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u0441\u043b\u0430\u0431\u043e\u0434\u0441\u043a\u0456 \u0441\u0435\u043b\u044c\u0441\u043a\u0456 \u0421\u0430\u0432\u0435\u0442",
     "effect": 7,
-    "radius": 3.8
+    "radius": 3.8,
+    "prediction": "1966-07-03",
+    "prediction_text": "A meteor shower is predicted to occur over \u0417\u0430\u0432\u043e\u0434\u0441\u043a\u0430\u0441\u043b\u0430\u0431\u043e\u0434\u0441\u043a\u0456 \u0441\u0435\u043b\u044c\u0441\u043a\u0456 \u0421\u0430\u0432\u0435\u0442 on 1966-07-03. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.8 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Cherokee Springs",
@@ -2229,7 +2599,9 @@
     "color": "yellow",
     "city": "South Carolina",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1941-12-18",
+    "prediction_text": "A meteor shower is predicted to occur over South Carolina on 1941-12-18. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chervettaz",
@@ -2241,7 +2613,9 @@
     "color": "yellow",
     "city": "Oron",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "1903-05-02",
+    "prediction_text": "A meteor shower is predicted to occur over Oron on 1903-05-02. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chervony Kut",
@@ -2253,7 +2627,9 @@
     "color": "yellow",
     "city": "Kholodnyi Yar",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1944-12-23",
+    "prediction_text": "A meteor shower is predicted to occur over Kholodnyi Yar on 1944-12-23. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chetrinahatti",
@@ -2265,7 +2641,9 @@
     "color": "yellow",
     "city": "\u0cae\u0cb2\u0ccd\u0cb2\u0cc2\u0cb0\u0cb9\u0c9f\u0ccd\u0c9f\u0cbf",
     "effect": 5,
-    "radius": 3.0
+    "radius": 3.0,
+    "prediction": "1885-01-20",
+    "prediction_text": "A meteor shower is predicted to occur over \u0cae\u0cb2\u0ccd\u0cb2\u0cc2\u0cb0\u0cb9\u0c9f\u0ccd\u0c9f\u0cbf on 1885-01-20. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 3.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chiang Khan",
@@ -2277,7 +2655,9 @@
     "color": "yellow",
     "city": "Chouansavan",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1989-08-09",
+    "prediction_text": "A meteor shower is predicted to occur over Chouansavan on 1989-08-09. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chicora",
@@ -2289,7 +2669,9 @@
     "color": "yellow",
     "city": "Donegal Township",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "1940-08-13",
+    "prediction_text": "A meteor shower is predicted to occur over Donegal Township on 1940-08-13. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chisenga",
@@ -2301,7 +2683,9 @@
     "color": "yellow",
     "city": "Chitipa",
     "effect": 10,
-    "radius": 5.0
+    "radius": 5.0,
+    "prediction": "1995-08-31",
+    "prediction_text": "A meteor shower is predicted to occur over Chitipa on 1995-08-31. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 5.0 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Chitenay",
@@ -2313,7 +2697,9 @@
     "color": "yellow",
     "city": "Saint-Ouen-les-Vignes",
     "effect": 4,
-    "radius": 2.6
+    "radius": 2.6,
+    "prediction": "1980-10-29",
+    "prediction_text": "A meteor shower is predicted to occur over Saint-Ouen-les-Vignes on 1980-10-29. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Cilimus",
@@ -2325,7 +2711,9 @@
     "color": "yellow",
     "city": "Pawenang",
     "effect": 3,
-    "radius": 2.2
+    "radius": 2.2,
+    "prediction": "1984-01-19",
+    "prediction_text": "A meteor shower is predicted to occur over Pawenang on 1984-01-19. This event is expected to have a moderate, potentially visible in the night sky and causing mild atmospheric disturbances. The estimated visible radius of the shower will be around 2.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Claxton",
@@ -2337,7 +2725,9 @@
     "color": "yellow",
     "city": "Georgia",
     "effect": 8,
-    "radius": 4.2
+    "radius": 4.2,
+    "prediction": "1985-12-21",
+    "prediction_text": "A meteor shower is predicted to occur over Georgia on 1985-12-21. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.2 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Colby (Wisconsin)",
@@ -2349,7 +2739,9 @@
     "color": "yellow",
     "city": "Wisconsin",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1918-10-26",
+    "prediction_text": "A meteor shower is predicted to occur over Wisconsin on 1918-10-26. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Cold Bokkeveld",
@@ -2361,7 +2753,9 @@
     "color": "yellow",
     "city": "Witzenberg Local Municipality",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1843-06-14",
+    "prediction_text": "A meteor shower is predicted to occur over Witzenberg Local Municipality on 1843-06-14. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Coleman",
@@ -2373,7 +2767,9 @@
     "color": "yellow",
     "city": "Michigan",
     "effect": 1,
-    "radius": 1.4
+    "radius": 1.4,
+    "prediction": "2003-08-05",
+    "prediction_text": "A meteor shower is predicted to occur over Michigan on 2003-08-05. This event is expected to have a minimal and likely to go unnoticed by residents. The estimated visible radius of the shower will be around 1.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Collescipoli",
@@ -2385,7 +2781,9 @@
     "color": "yellow",
     "city": "Terni",
     "effect": 6,
-    "radius": 3.4
+    "radius": 3.4,
+    "prediction": "1895-02-06",
+    "prediction_text": "A meteor shower is predicted to occur over Terni on 1895-02-06. This event is expected to have a significant, likely drawing public and scientific attention due to its brightness and sonic effects. The estimated visible radius of the shower will be around 3.4 kilometers, making it a notable celestial occurrence for the region."
   },
   {
     "name": "Conquista",
@@ -2397,6 +2795,8 @@
     "color": "yellow",
     "city": "Conquista",
     "effect": 9,
-    "radius": 4.6
+    "radius": 4.6,
+    "prediction": "1971-09-04",
+    "prediction_text": "A meteor shower is predicted to occur over Conquista on 1971-09-04. This event is expected to have a extensive, possibly causing local disruptions and attracting international media coverage. The estimated visible radius of the shower will be around 4.6 kilometers, making it a notable celestial occurrence for the region."
   }
 ]

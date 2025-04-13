@@ -1,6 +1,6 @@
 import React, { useMemo } from "react";
 import { Card, CardHeader, CardBody, Image } from "@heroui/react";
-
+import { useEffect, useState } from "react";
 // Images must be in /public/images for public access
 const meteorImages = [
   "/images/meteor-1.png",
@@ -20,14 +20,14 @@ const MeteoriteCard = ({ meteorite }) => {
   }, [meteorite]);
 
   return (
-    <Card className="py-4 bg-[#1c1c1c] text-white border-yellow-500">
+    <Card className="py-4 bg-[#1c1c1c] text-white border-yellow-500 center mt-4">
       <CardHeader className="pb-0 pt-2 px-4 flex-col items-start">
-        <p className="text-tiny uppercase font-bold text-yellow-400">
-          Meteorite Details
-        </p>
         <small className="text-default-500">Impact Data</small>
-        <h4 className="font-bold text-large text-yellow-300">
-          {meteorite.name}
+        <h4
+          className="font-bold text-yellow-300"
+          style={{ fontSize: "1.2rem" }}
+        >
+          {meteorite.name.toUpperCase()}
         </h4>
       </CardHeader>
       <CardBody className="overflow-visible py-2 space-y-1 text-sm">
@@ -47,14 +47,35 @@ const MeteoriteCard = ({ meteorite }) => {
             </tr>
           </tbody>
         </table>
+
         <Image
           alt="Meteorite"
           className="object-cover rounded-xl mt-4"
           src={imageUrl}
-          width={270}
+          width={170}
         />
       </CardBody>
     </Card>
+  );
+};
+
+const TypingText = ({ text }) => {
+  const [displayedText, setDisplayedText] = useState("");
+  useEffect(() => {
+    let i = 0;
+    const interval = setInterval(() => {
+      setDisplayedText((prev) => prev + text.charAt(i));
+      i++;
+      if (i >= text.length) clearInterval(interval);
+    }, 20); // typing speed
+    return () => clearInterval(interval);
+  }, [text]);
+
+  return (
+    <p className="text-yellow-100 text-sm leading-relaxed whitespace-pre-wrap">
+      {displayedText}
+      <span className="animate-pulse text-yellow-400">|</span>
+    </p>
   );
 };
 

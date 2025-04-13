@@ -1,23 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import Globe from "react-globe.gl";
-
-const meteorShowers = [
-  {
-    name: "Perseids",
-    lat: 42.0,
-    lon: 20.0,
-  },
-  {
-    name: "Leonids",
-    lat: 25.0,
-    lon: 90.0,
-  },
-  {
-    name: "Geminids",
-    lat: -10.0,
-    lon: -45.0,
-  },
-];
+import MeteoriteCard from "./MetoreorCard";
+import PredictionText from "./PredictionText.jsx";
 
 const ISS_MeteorVisualizer = () => {
   const globeEl = useRef();
@@ -41,6 +25,7 @@ const ISS_MeteorVisualizer = () => {
           text: m.city || m.name,
           lat: m.lat,
           lng: m.lng,
+          name: m.name,
           color: "yellow",
           fullData: m,
         }));
@@ -52,87 +37,90 @@ const ISS_MeteorVisualizer = () => {
     }
   }, []);
 
-  const allPoints = [
-    ...meteorShowers.map((s) => ({ ...s, color: "red" })),
-    ...meteorData.map((m) => ({ ...m, color: "yellow" })),
-  ];
+  const allPoints = [...meteorData.map((m) => ({ ...m, color: "yellow" }))];
+  const ringsData = meteorData.map((m) => ({
+    lat: m.lat,
+    lng: m.lng,
+    maxRadius: m.radius, // from effect → 1–5
+    propagationSpeed: 1,
+    repeatPeriod: 700,
+    color: "rgba(255, 165, 0, 0.7)", // or `m.color`
+  }));
 
   return (
-    <div style={{ position: "relative", height: "100vh" }}>
-      {/* Home Button */}
+    <div
+      style={{
+        display: "flex",
+        width: "100%",
+        height: "100vh",
+      }}
+    >
       <div
         style={{
-          position: "absolute",
-          top: "10px",
-          right: "10px",
-          zIndex: 1000,
+          width: "60%", // keep this expanded
+          padding: "1rem",
+          color: "white",
+          overflowY: "visible",
+          backgroundColor: "rgb(0, 0, 0)",
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "flex-start", // align the wider block to the left
         }}
-      ></div>
-
-      <div style={{ display: "flex", height: "100%" }}>
-        <div style={{ width: "25%" }}>
-          {selectedCity && (
-            <div>
-              <h2>{selectedCity.name}</h2>
-              <p>
-                <strong>City:</strong> {selectedCity.city}
-              </p>
-              <p>
-                <strong>Year:</strong> {selectedCity.year}
-              </p>
-              <p>
-                <strong>Mass:</strong> {selectedCity.mass} g
-              </p>
-              <p>
-                <strong>Class:</strong> {selectedCity.class}
-              </p>
-              <p>
-                <strong>Latitude:</strong> {selectedCity.lat}
-              </p>
-              <p>
-                <strong>Longitude:</strong> {selectedCity.lng}
-              </p>
-            </div>
-          )}
-        </div>
-        <div style={{ width: "75%" }}>
-          <Globe
-            ref={globeEl}
-            globeImageUrl="//unpkg.com/three-globe/example/img/earth-blue-marble.jpg"
-            bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
-            backgroundColor="#000000"
-            polygonsData={countries.features}
-            polygonCapColor={() => "rgba(200, 200, 200, 0.3)"}
-            polygonSideColor={() => "rgba(0, 100, 200, 0.15)"}
-            polygonStrokeColor={() => "#111"}
-            polygonLabel={({ properties: d }) =>
-              `<div><b>Country:</b> ${d.ADMIN}<br/><b>Code:</b> ${d.ISO_A2}</div>`
+      >
+        {selectedCity ? (
+          <>
+            <PredictionText text={selectedCity.prediction_text} />
+            <MeteoriteCard meteorite={selectedCity} />
+          </>
+        ) : (
+          <p>Click on a meteorite to view its details.</p>
+        )}
+      </div>
+      <div
+        style={{
+          width: "70%",
+          cursor: "pointer",
+        }}
+      >
+        <Globe
+          ref={globeEl}
+          globeImageUrl="//unpkg.com/three-globe/example/img/earth-blue-marble.jpg"
+          bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
+          backgroundColor="#000000"
+          polygonsData={countries.features}
+          polygonCapColor={() => "rgba(200, 200, 200, 0.3)"}
+          polygonSideColor={() => "rgba(0, 100, 200, 0.15)"}
+          polygonStrokeColor={() => "#111"}
+          polygonLabel={({ properties: d }) => {
+            const country = d.ADMIN ? `<b>Country:</b> ${d.ADMIN}` : "";
+            const code = d.ISO_A2 ? `<br/><b>Code:</b> ${d.ISO_A2}` : "";
+            return `<div style='font-size: 1.2rem'>${country}${code}</div>`;
+          }}
+          ringsData={ringsData}
+          pointsData={allPoints}
+          pointLat={(d) => d.lat}
+          pointLng={(d) => d.lon || d.lng}
+          pointColor={(d) => d.color}
+          pointAltitude={0.01}
+          pointLabel={(d) => {
+            if (d.year) {
+              return `<div style='font-size: 1rem'><b>${d.name}</b><br/>Year: ${d.year}<br/>Class: ${d.class}<br/>Mass: ${d.mass} g</div>`;
             }
-            pointsData={allPoints}
-            pointLat={(d) => d.lat}
-            pointLng={(d) => d.lon || d.lng}
-            pointColor={(d) => d.color}
-            pointAltitude={0.01}
-            pointLabel={(d) => {
-              if (d.year) {
-                return `<div><b>${d.name}</b><br/>Year: ${d.year}<br/>Class: ${d.class}<br/>Mass: ${d.mass} g</div>`;
-              }
-              return `<div><b>${d.name}</b></div>`;
-            }}
-            onPointClick={setSelectedCity}
-            labelsData={labelsData}
-            labelLabel={(d) => d.text}
-            labelLat={(d) => d.lat}
-            labelLng={(d) => d.lng}
-            labelText={(d) => d.text}
-            labelColor={() => "yellow"}
-            labelAltitude={0.01}
-            labelSize={1.2}
-            labelDotRadius={0.1}
-            labelIncludeDot={true}
-            onLabelClick={(label) => setSelectedCity(label.fullData)}
-          />
-        </div>
+            return `<div style='font-size: 1.2rem'><b>${d.name}</b></div>`;
+          }}
+          onPointClick={setSelectedCity}
+          labelsData={labelsData}
+          labelLabel={(d) => d.text}
+          labelLat={(d) => d.lat}
+          labelLng={(d) => d.lng}
+          labelText={(d) => d.text}
+          labelColor={() => "yellow"}
+          labelAltitude={0.01}
+          labelSize={1.2}
+          labelDotRadius={0.1}
+          labelIncludeDot={true}
+          onLabelClick={(label) => setSelectedCity(label.fullData)}
+        />
       </div>
     </div>
   );
