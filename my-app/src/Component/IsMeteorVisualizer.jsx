@@ -1,23 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import Globe from "react-globe.gl";
-
-const meteorShowers = [
-  {
-    name: "Perseids",
-    lat: 42.0,
-    lon: 20.0,
-  },
-  {
-    name: "Leonids",
-    lat: 25.0,
-    lon: 90.0,
-  },
-  {
-    name: "Geminids",
-    lat: -10.0,
-    lon: -45.0,
-  },
-];
+import MeteoriteCard from "./MetoreorCard";
 
 const ISS_MeteorVisualizer = () => {
   const globeEl = useRef();
@@ -41,6 +24,7 @@ const ISS_MeteorVisualizer = () => {
           text: m.city || m.name,
           lat: m.lat,
           lng: m.lng,
+          name: m.name,
           color: "yellow",
           fullData: m,
         }));
@@ -52,55 +36,47 @@ const ISS_MeteorVisualizer = () => {
     }
   }, []);
 
-  const allPoints = [
-    ...meteorShowers.map((s) => ({ ...s, color: "red" })),
-    ...meteorData.map((m) => ({ ...m, color: "yellow" })),
-  ];
+  const allPoints = [...meteorData.map((m) => ({ ...m, color: "red" }))];
+  const ringsData = meteorData.map((m) => ({
+    lat: m.lat,
+    lng: m.lng,
+    maxRadius: m.radius, // from effect → 1–5
+    propagationSpeed: 1,
+    repeatPeriod: 700,
+    color: "rgb(255, 0, 0)", // or `m.color`
+  }));
+  console.log(labelsData);
 
   return (
-    <div style={{ display: "flex", width: "100%", height: "100vh" }}>
+    <div
+      style={{
+        display: "flex",
+        width: "100%",
+        height: "100vh",
+      }}
+    >
       <div
         style={{
           width: "25%",
           padding: "1rem",
-          backgroundColor: "#111",
           color: "white",
           overflowY: "auto",
+          backgroundColor: "rgb(0, 0, 0)",
+          // background: "linear-gradient(to bottom right, black,rgb(66, 31, 91))",
         }}
       >
         {selectedCity ? (
-          <div
-            style={{
-              border: "1px solid yellow",
-              padding: "1rem",
-              borderRadius: "8px",
-            }}
-          >
-            <h2>{selectedCity.name}</h2>
-            <p>
-              <strong>City:</strong> {selectedCity.city}
-            </p>
-            <p>
-              <strong>Year:</strong> {selectedCity.year}
-            </p>
-            <p>
-              <strong>Mass:</strong> {selectedCity.mass} g
-            </p>
-            <p>
-              <strong>Class:</strong> {selectedCity.class}
-            </p>
-            <p>
-              <strong>Latitude:</strong> {selectedCity.lat}
-            </p>
-            <p>
-              <strong>Longitude:</strong> {selectedCity.lng}
-            </p>
-          </div>
+          <MeteoriteCard meteorite={selectedCity} />
         ) : (
           <p>Click on a meteorite to view its details.</p>
         )}
       </div>
-      <div style={{ width: "75%", cursor: "pointer" }}>
+      <div
+        style={{
+          width: "75%",
+          cursor: "pointer",
+        }}
+      >
         <Globe
           ref={globeEl}
           globeImageUrl="//unpkg.com/three-globe/example/img/earth-blue-marble.jpg"
@@ -110,9 +86,12 @@ const ISS_MeteorVisualizer = () => {
           polygonCapColor={() => "rgba(200, 200, 200, 0.3)"}
           polygonSideColor={() => "rgba(0, 100, 200, 0.15)"}
           polygonStrokeColor={() => "#111"}
-          polygonLabel={({ properties: d }) =>
-            `<div style='font-size: 1.2rem'><b>Country:</b> ${d.ADMIN}<br/><b>Code:</b> ${d.ISO_A2}</div>`
-          }
+          polygonLabel={({ properties: d }) => {
+            const country = d.ADMIN ? `<b>Country:</b> ${d.ADMIN}` : "";
+            const code = d.ISO_A2 ? `<br/><b>Code:</b> ${d.ISO_A2}` : "";
+            return `<div style='font-size: 1.2rem'>${country}${code}</div>`;
+          }}
+          ringsData={ringsData}
           pointsData={allPoints}
           pointLat={(d) => d.lat}
           pointLng={(d) => d.lon || d.lng}
