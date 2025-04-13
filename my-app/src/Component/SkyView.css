@@ -1,0 +1,12 @@
+.sky-map-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .sky-iframe {
+    border: 2px solid #444;
+    border-radius: 8px;
+    box-shadow: 0 0 12px rgba(255, 255, 255, 0.2);
+  }
+  
