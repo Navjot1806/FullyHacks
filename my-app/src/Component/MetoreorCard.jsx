@@ -22,7 +22,6 @@ const MeteoriteCard = ({ meteorite }) => {
   return (
     <Card className="py-4 bg-[#1c1c1c] text-white border-yellow-500 center mt-4">
       <CardHeader className="pb-0 pt-2 px-4 flex-col items-start">
-        <small className="text-default-500">Impact Data</small>
         <h4
           className="font-bold text-yellow-300"
           style={{ fontSize: "1.2rem" }}

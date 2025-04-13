@@ -26,7 +26,7 @@ const ISS_MeteorVisualizer = () => {
           lat: m.lat,
           lng: m.lng,
           name: m.name,
-          color: "yellow",
+          color: "red",
           fullData: m,
         }));
         setLabelsData(labels);
@@ -37,14 +37,14 @@ const ISS_MeteorVisualizer = () => {
     }
   }, []);
 
-  const allPoints = [...meteorData.map((m) => ({ ...m, color: "yellow" }))];
+  const allPoints = [...meteorData.map((m) => ({ ...m, color: "red" }))];
   const ringsData = meteorData.map((m) => ({
     lat: m.lat,
     lng: m.lng,
     maxRadius: m.radius, // from effect → 1–5
     propagationSpeed: 1,
     repeatPeriod: 700,
-    color: "rgba(255, 165, 0, 0.7)", // or `m.color`
+    color: "rgb(255, 0, 0)", // or `m.color`
   }));
 
   return (
@@ -73,7 +73,9 @@ const ISS_MeteorVisualizer = () => {
             <MeteoriteCard meteorite={selectedCity} />
           </>
         ) : (
-          <p>Click on a meteorite to view its details.</p>
+          <p style={{ fontSize: "1.3rem" }}>
+            Click on the affect location to view its details.
+          </p>
         )}
       </div>
       <div
